@@ -1,0 +1,7 @@
+[webservers]
+107.23.97.106
+
+
+[localserver]
+localhost ansible_connection=local
+
