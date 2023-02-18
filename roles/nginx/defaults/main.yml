@@ -1,0 +1,5 @@
+---
+
+packagename: nginx
+portno: 82
+# defaults file for nginx

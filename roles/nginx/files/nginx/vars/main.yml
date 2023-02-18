@@ -1,0 +1,4 @@
+---
+packagename: nginx
+portno: 82
+# vars file for nginx
